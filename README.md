@@ -21,7 +21,13 @@
 ---
 
 ## 📫 Contacte
+T'agradaria contactar amb mi?
+- ✉️ [Correu electrònic](mailto:alu.pau.urrea@mataro.epiaedu.cat)  
 - 🐙 [GitHub](https://github.com/PauUB)  
+
+---
+## 💡 Cita inspiradora
+> "Cada petit pas compta." — Eloy Moreno
 
 ---
 
