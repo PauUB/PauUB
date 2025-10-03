@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, sóc en Pau Urrea
 
-<!--
-**PauUB/PauUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tinc **17 anys** i actualment estic cursant **2n de Sistemes Microinformàtics i Xarxes**.  
+💻 Estic fent les **pràctiques del cicle** i m’apassiona el món de la informàtica i les xarxes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mi
+- 📚 Estudiant de **SMX (Sistemes Microinformàtics i Xarxes)**  
+- 🔧 Interessat en **Aplicacions web i la programació **  
+- 🚀 Amb ganes d’aprendre i seguir millorant com a tècnic informàtic  
+
+---
+
+## 🛠️ Tecnologies i eines
+- **Sistemes operatius**: Windows, Linux  
+- **Xarxes**: configuració bàsica de routers i switches i servidors 
+- **Ofimàtica i entorns**: Microsoft Office, Google Workspace  
+- **Altres**: muntatge i manteniment d’ordinadors  i aplicacions web
+
+---
+
+## 📫 Contacte
+- 🐙 [GitHub](https://github.com/PauUB)  
+
+---
+
+✨ *Gràcies per visitar el meu perfil!*
