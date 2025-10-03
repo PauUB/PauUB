@@ -6,8 +6,8 @@
 ---
 
 ## 🌱 Sobre mi
-- 📚 Estudiant de ** SMX (Sistemes Microinformàtics i Xarxes) **  
-- 🔧 Interessat en ** Aplicacions web i la programació **  
+- 📚 Estudiant de **SMX (Sistemes Microinformàtics i Xarxes)**  
+- 🔧 Interessat en **Aplicacions web i la programació**  
 - 🚀 Amb ganes d’aprendre i seguir millorant com a tècnic informàtic  
 
 ---
