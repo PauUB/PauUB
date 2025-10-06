@@ -1,4 +1,4 @@
-# 👋 Hola, sóc en Pau Urrea
+# 👋 Hola, soc en Pau Urrea
 
 🎓 Tinc **17 anys** i actualment estic cursant **2n de Sistemes Microinformàtics i Xarxes**.  
 💻 Estic fent les **pràctiques del cicle** i m’apassiona el món de la informàtica i les xarxes.  
