@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=17+anys+amb+ganes+d'aprendre+i+millorar;Estudiant+de+Sistemes+Microinformàtics+i+Xarxes;Interessat+en+les+aplicacions+web+i+la+programació;Construint+el+meu+futur+dins+del+món+tecnològic"/>
+<img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=17+anys+amb+ganes+d'aprendre+i+millorar;Estudiant+de+Sistemes+Microinformàtics+i+Xarxes;Interessat+en+les+aplicacions+web+i+la+programació;Construint+el+meu+futur+dins+del+món+tecnològic"/>
 
 </div>
 
