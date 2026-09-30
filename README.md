@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-🎓 Cursant **2n de SMX** i realitzant les **pràctiques del cicle**
+🎓 Cursant **1r Animacions 3D, Jocs i Entorns Interactius** 
 
 💡 M'apassiona el món de la informàtica i cada dia intento continuar aprenent i millorant les meves habilitats tècniques i personals
 
