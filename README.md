@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Pau%20Urrea&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Estudiant%20de%20Sistemes%20Microinformàtics%20i%20Xarxes&descAlignY=58&descSize=22&stroke=ffffff&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Pau%20Urrea&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Estudiant%20de%20Animacions%203D,%20Jocs%20i%20Entorns%20Interactius&descAlignY=58&descSize=22&stroke=ffffff&strokeWidth=1"/>
 
 <br>
 
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=17+anys+amb+ganes+d%27aprendre+i+millorar;Estudiant+de+Sistemes+Microinform%C3%A0tics+i+Xarxes;Interessat+en+les+aplicacions+web+i+la+programaci%C3%B3;Construint+el+meu+futur+dins+del+m%C3%B3n+tecnol%C3%B2gic"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=18+anys+amb+ganes+d%27aprendre+i+millorar;Estudiant+de+animacions+3D,+Jocs+i+Entorns+Interactius;Interessat+en+les+aplicacions+web+i+la+programaci%C3%B3;Construint+el+meu+futur+dins+del+m%C3%B3n+tecnol%C3%B2gic"/>
 </div>
 
 <br>
@@ -127,7 +127,7 @@
 
 ### 📚 Actualment
 
-🔹 Realitzant les pràctiques del cicle SMX
+🔹 Realitzant el cicle superior de Animacions 3D, Jocs i Entorns Interactius
 🔹 Millorant coneixements de xarxes i sistemes
 🔹 Aprenent més sobre aplicacions web i desenvolupament
 🔹 Construint experiència dins del sector tecnològic
@@ -191,8 +191,8 @@
 
 <br>
 
-<a href="mailto:alu.pau.urrea@mataro.epiaedu.cat">
-  <img src="https://img.shields.io/badge/alu.pau.urrea@mataro.epiaedu.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:pauurrea13@gmail.com">
+  <img src="https://img.shields.io/badge/pauurrea13@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
