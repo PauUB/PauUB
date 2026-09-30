@@ -5,7 +5,7 @@
 <br>
 
 <p>
-  <a href="mailto:alu.pau.urrea@mataro.epiaedu.cat">
+  <a href="mailto:pauurrea13@gmail.com">
     <img src="https://img.shields.io/badge/✉️ Correu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
